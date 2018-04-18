@@ -27,7 +27,7 @@ Compile with `make -C libft/ fclean && make -C libft/`. Then:
 
 ## License
 
-[MIT © Petru Dobos.](https://github.com/cristianopran/get_next_line/blob/master/LICENSE
+[MIT © Cristian Opran.](https://github.com/cristianopran/get_next_line/blob/master/LICENSE)
 
 [1]: http://stackoverflow.com/questions/3501338/c-read-file-line-by-line
 [2]: http://stackoverflow.com/questions/2372813/reading-one-line-at-a-time-in-c
